@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wisdom-0.0.1">
+    <output-path>C:\Users\sumee\Documents\Projects\wisdom\build\libs</output-path>
+    <root id="archive" name="wisdom-0.0.1.jar" />
+  </artifact>
+</component>
